@@ -1,3 +1,7 @@
+> [!NOTE]  
+> Fixed since released on spring-framework 5.3.33
+> (apparently by [this](https://github.com/spring-projects/spring-framework/issues/32342))
+
 # Sample project to reproduce a bug when using SSE with Spring and Tomcat 9
 
 Sometimes the SSE message leaks to the body of a regular request.

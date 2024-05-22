@@ -14,6 +14,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <!-- Uncomment to use the snapshot build of Tomcat 9 -->
         <!--<tomcat.version>9.0-SNAPSHOT</tomcat.version>-->
+
+        <!-- Uncomment to use the fixed version of spring-framework -->
+        <!--<spring-framework.version>5.3.33</spring-framework.version>-->
     </properties>
 
     <parent>
